@@ -17,7 +17,7 @@
 # CONTRIBUTING
 <a name="Initial setup"></a>
 ## INITIAL SETUP
-1. Fork the repository from the [main repo](https://github.com/VikramjeetD/CabBooking/tree/master) to your github. 
+1. Fork the repository to your github. 
 2. Clone the forked repo to your local machine.
    1. From the terminal, navigate to the folder in which to clone the repository. 
    2. Initialize a new git repository using `git init`.
